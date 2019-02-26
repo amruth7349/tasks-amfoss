@@ -1,0 +1,7 @@
+mv hahahaha a.tar
+file a.tar
+tar xvf a.tar
+file haha.zip
+file config.json.bz2.gz
+chmod +x config.json.bz2.gz
+the other files we can directly open by clicking on them
